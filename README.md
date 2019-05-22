@@ -1,1 +1,1 @@
-# GLUT-Projects
+# GLUT
